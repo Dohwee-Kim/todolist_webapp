@@ -1,0 +1,22 @@
+{
+  "name": "todolist_webapp",
+  "version": "1.0.0",
+  "description": "### Node.js and MongoDB based todo-list API web app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dohwee-Kim/todolist_webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dohwee-Kim/todolist_webapp/issues"
+  },
+  "homepage": "https://github.com/Dohwee-Kim/todolist_webapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
